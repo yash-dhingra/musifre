@@ -3,7 +3,7 @@
 
 Greetings
 
-**For HackHeist(Wartex) Judges: Synopsys, Promotion Video & Product Functioning Video are present in Documentation Folder.**
+**For HackHeist(Wartex) Judges: Synopsis, Promotion Video & Product Functioning Video are present in Documentation Folder.**
 
 **A Star would be appreciated ;)**
 
