@@ -3,9 +3,8 @@
 
 Greetings
 
-**For HackHeist(Wartex) Judges:-**
+**For HackHeist(Wartex) Judges: Synopsys, Promotion Video & Product Functioning Video are present in Documentation Folder. A Star would be appreciated ;)**
 
-**"Synopsys, Promotion Video & Product Functioning Video are present in Documentation Folder."**
 
 _Note* Music Playback is only available for MacOS._
 
