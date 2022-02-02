@@ -3,20 +3,19 @@
 
 Greetings
 
-Synopsys,Promotion Video & Product Functioning Video are present in Documents Folder.
+**For HackHeist(Wartex) Judges:-**
 
-**Note* Music Playback is only available for MacOS.**
+**"Synopsys, Promotion Video & Product Functioning Video are present in Documentation Folder."**
+
+_Note* Music Playback is only available for MacOS._
 
 If you receive this error:
 ```
 'NoneType' object has no attribute 'span'
 
 ```
-
 Use 3rd party version of pytube. It can be installed using command
-
 ```
 pipenv install -e git+https://github.com/oleksandr-shvab/pytube#egg=pytube
-
 ```
-Thanks to @oleksandr-shvab
+Thanks to @oleksandr-shvab for the fix.
