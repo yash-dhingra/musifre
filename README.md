@@ -13,7 +13,6 @@ _Note* Music Playback is currently only available for MacOS._
 If you receive this error:
 ```
 'NoneType' object has no attribute 'span'
-
 ```
 Use 3rd party version of pytube. It can be installed using command
 ```
